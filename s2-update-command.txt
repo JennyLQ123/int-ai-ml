@@ -1,0 +1,1 @@
+table_modify routeid_fwd ipv4_fwd 1 0
